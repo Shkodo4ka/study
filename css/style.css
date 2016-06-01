@@ -1,0 +1,65 @@
+div {
+        /background-color: #CCBAB6;
+        border-color: #FFFFFF;
+        border-style: double;
+        align-content: center;
+        text-align: center;
+    }
+
+    .bannermain {
+        background-color:#4FCC33 ;
+        width: 80%;
+        margin: 5px  auto;
+    }
+
+    .logo   {
+        background-color:#3441CC;
+        width: 20%;
+        height: 40px;
+        display: inline-block;
+    }
+
+    .menu{
+        background-color: #58CBCC;
+        position: static;
+        height: 40px;
+        width:76%;
+        display: inline-block;
+    }
+
+    .banner2{
+        background-color: #BD61B8;
+        width: 60%;
+        margin: 5px  auto;
+        height: 50px;
+    }
+
+    .news{
+        display: inline-block;
+        width: 24%;
+        height: 150px;
+        background-color: #57A7CC;
+    }
+
+    .content{
+        display: inline-block;
+        width: 46%;
+        height: 150px;
+        background-color: #57A7CC;
+    }
+
+    .stock
+    {
+        display: inline-block;
+        width: 24%;
+        height: 150px;
+        background-color: #57A7CC;
+    }
+
+    .footer{
+        background-color:#58CBCC;
+        height: 46px;
+    }
+    .logo2{
+        float: left;
+    }
